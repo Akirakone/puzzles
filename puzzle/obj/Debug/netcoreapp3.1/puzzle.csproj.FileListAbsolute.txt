@@ -1,0 +1,13 @@
+C:\Users\Akira\Desktop\C#\puzzles\puzzle\bin\Debug\netcoreapp3.1\puzzle.exe
+C:\Users\Akira\Desktop\C#\puzzles\puzzle\bin\Debug\netcoreapp3.1\puzzle.deps.json
+C:\Users\Akira\Desktop\C#\puzzles\puzzle\bin\Debug\netcoreapp3.1\puzzle.runtimeconfig.json
+C:\Users\Akira\Desktop\C#\puzzles\puzzle\bin\Debug\netcoreapp3.1\puzzle.runtimeconfig.dev.json
+C:\Users\Akira\Desktop\C#\puzzles\puzzle\bin\Debug\netcoreapp3.1\puzzle.dll
+C:\Users\Akira\Desktop\C#\puzzles\puzzle\bin\Debug\netcoreapp3.1\puzzle.pdb
+C:\Users\Akira\Desktop\C#\puzzles\puzzle\obj\Debug\netcoreapp3.1\puzzle.csprojAssemblyReference.cache
+C:\Users\Akira\Desktop\C#\puzzles\puzzle\obj\Debug\netcoreapp3.1\puzzle.AssemblyInfoInputs.cache
+C:\Users\Akira\Desktop\C#\puzzles\puzzle\obj\Debug\netcoreapp3.1\puzzle.AssemblyInfo.cs
+C:\Users\Akira\Desktop\C#\puzzles\puzzle\obj\Debug\netcoreapp3.1\puzzle.csproj.CoreCompileInputs.cache
+C:\Users\Akira\Desktop\C#\puzzles\puzzle\obj\Debug\netcoreapp3.1\puzzle.dll
+C:\Users\Akira\Desktop\C#\puzzles\puzzle\obj\Debug\netcoreapp3.1\puzzle.pdb
+C:\Users\Akira\Desktop\C#\puzzles\puzzle\obj\Debug\netcoreapp3.1\puzzle.genruntimeconfig.cache
